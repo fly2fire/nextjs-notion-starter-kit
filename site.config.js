@@ -13,7 +13,7 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'https://www.notion.so/fly2fire/notion-blog-a442339f6d6442339492be92cda487b0',
+  socialImageTitle: 'https://fly2fire.notion.site/notion-blog-a442339f6d6442339492be92cda487b0',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
